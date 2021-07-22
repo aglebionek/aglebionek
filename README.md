@@ -1,4 +1,4 @@
-<!--<p>My name is Aleksander Glebionek, I currently study Computer Science at WULS in Warsaw, Poland.</p>
+<p>My name is Aleksander Glebionek, I currently study Computer Science at WULS in Warsaw, Poland.</p>
 <p>I code under Windows Substystem for Linux 2 whenever it's possible. My editor of choice is Visual Studio Code and my go-to language is Python.</p>
 
 
@@ -21,9 +21,10 @@
 
 <h2>What I want to learn more about</h2>
 <p>Docker & Kubernetes</p>
+<p>Django</p>
+<p>Javascript</p>
 <p>Golang</p>
 <p>Java</p>
-<p>Javascript</p>
 <p>Machine Learning</p>
 <p>Data analysis</p>
 <p>I want to expand my knowledge on other topics as well.</p>
